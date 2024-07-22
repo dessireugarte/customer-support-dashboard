@@ -1,0 +1,19 @@
+{
+  "appIsExample": false,
+  "appLayout": {
+    "type": "DESKTOP"
+  },
+  "applicationVersion": 2,
+  "color": "#ECECEC",
+  "evaluationVersion": 2,
+  "icon": "bag",
+  "pages": [
+    {
+      "id": "Dashboard",
+      "isDefault": true
+    }
+  ],
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  }
+}
